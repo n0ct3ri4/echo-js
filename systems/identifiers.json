@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0-000",
+    "name": "Nocturne",
+    "version": "0.0.1",
+    "config": {
+      "minimum": {
+        "memory": "1G",
+        "disk": "2G",
+        "internet": "3Mbs"
+      }
+    },
+    "github": "YOUR_GITHUB_HERE",
+    "entry": "main.js",
+    "dependencies": ["electron"]
+  },
+  {
+    "id": "0-001",
+    "name": "Owl Environment",
+    "version": "0.0.1",
+    "config": {
+      "minimum": {
+        "memory": "1G",
+        "disk": "2G",
+        "internet": "3Mbs"
+      }
+    },
+    "github": "YOUR_GITHUB_HERE",
+    "entry": "main.js",
+    "dependencies": ["electron"]
+  }
+]
